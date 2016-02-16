@@ -1,0 +1,14 @@
+layout_spectrum: 0.9910395
+typography_spectrum: 0.4731183
+color:
+  saturation: 0.2342921
+  lightness: 0.8447846
+  brandStrength: 0.9551972
+  brandColors:
+    - '#000000'
+    - '#666767'
+    - '#B2B2B2'
+    - '#53A959'
+    - '#464747'
+  rhythmicContrast: 0.8335022
+name: 'ID Data & Insight'
